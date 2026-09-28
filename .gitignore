@@ -1,0 +1,32 @@
+# R / OS
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Outputs (regenerated)
+outputs/**
+!outputs/.gitkeep
+!outputs/tables/.gitkeep
+!outputs/figures/.gitkeep
+!outputs/tex/.gitkeep
+
+# Microdata and secrets
+data/*.csv
+data/*.xlsx
+data/*.rds
+data/*.sav
+data/*.dta
+.env
+.env.*
+*.pem
+*credentials*
+
+# Office / OS junk
+.DS_Store
+~$*
+*.aux
+*.log
+*.out
+*.synctex.gz
