@@ -10,7 +10,7 @@ Comparable sample: age ≥ 18 years; injection in the previous 12 months; Maputo
 R/
   00_paths.R                 # Paths and local data locations
   01_comparable_sample_rds.R # Harmonised sample, RDS objects, prevalence pipeline
-  02_table1_composition.R    # Table 1: RDS-II weighted sample composition
+  02_table1_composition.R    # Table 1: Gile's weighted sample composition
   02b_table1_export_excel.R  # Table 1 Excel export
   03_table2_prevalence.R     # Table 2: HIV/HCV prevalence (Gile SS + SS-PSE N)
   03b_table2_format.R        # Table 2 formatting / export
