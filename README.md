@@ -64,10 +64,4 @@ export PWID_DATA_2023="/path/to/DADOS_PID.csv"
 
 `tidyverse`, `RDS`, `survey`, `lme4`, `openxlsx`, `xtable`, `ggplot2`, `scales`, `broom`, `glue`, `officer`, `flextable` (and dependencies). Optional older drafts also used `geepack`, `sandwich`, `lmtest`.
 
-## Citation
 
-Manuscript under revision (PLOS ONE PONE-D-25-62212). Analyst: Rachid Muleia.
-
-## Licence
-
-Analysis code provided for research transparency. Do not redistribute survey microdata.
