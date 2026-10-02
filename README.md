@@ -46,7 +46,7 @@ Rscript R/06_year_only_glmm.R
 
 ## Methods summary
 
-- **Descriptives (Tables 1–2):** RDS-II (Volz–Heckathorn) / Gile successive sampling; city-stratified; not raw sample proportions.
+- **Descriptives (Tables 1–2):**  Gile successive sampling; city-stratified; not raw sample proportions.
 - **Associations (Table 4):** Unweighted logistic mixed models (`lme4::glmer`), random intercept for recruiter nested in year × city; year × covariate interactions; backward LRT (α = 0.05); boundary-corrected LRT for \(H_0:\sigma_u=0\).
 
 ## Data (not included)
